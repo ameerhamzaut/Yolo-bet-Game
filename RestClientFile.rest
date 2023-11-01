@@ -1,0 +1,12 @@
+
+### Bet  
+POST  http://localhost:8083/api/bet HTTP/1.1
+content-type: application/json
+
+{
+   
+    "bet": 40.5,
+    "wholenumber": 50
+    
+
+}
